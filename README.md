@@ -8,8 +8,8 @@
   
 **💡 What I Bring:**
 - **💻 Skills:**
-- 🔍 Generative AI, Machine Learning, Deep Learning, Data Science, Data Visualization, and LLMs.
-- 🤖 Hands-on experience in **Computer Vision, ML/DL,** and **pre-trained models** for innovative AI solutions.
+    - 🔍 Generative AI, Machine Learning, Deep Learning, Data Science, Data Visualization, and LLMs.
+    - 🤖 Hands-on experience in **Computer Vision, ML/DL,** and **pre-trained models** for innovative AI solutions.
 
 **🎓 Education:**
 - 🎓 AI & DS Engineering Student
