@@ -25,7 +25,7 @@
 
 **🌐 Let's Connect:**
 - **📧 Email:** anaumsharif@gmail.com
-- **💼 LinkedIn:** in/anaum-sharif-a7877325a
+- **💼 LinkedIn:** [in/anaum-sharif-a7877325a](https://www.linkedin.com/in/anaum-sharif-a7877325a)
 
 
 
