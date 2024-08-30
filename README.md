@@ -1,4 +1,4 @@
-**👋 Hello, World! I'm Anaum Sharif**
+**👋 Hello, World! I'm Anaum Yaseen Sharif**
 
 **🚀 About Me:**
 - 🌟 Passionate AI & Data Science student with a strong foundation in cutting-edge technologies.
@@ -11,30 +11,23 @@
     - 🔍 Generative AI, Machine Learning, Deep Learning, Data Science, Data Visualization, and LLMs.
     - 🤖 Hands-on experience in **Computer Vision, ML/DL,** and **pre-trained models** for innovative AI solutions.
 
-**🎓 Education:**
-- 🎓 AI & DS Engineering Student
+- **🎓 Education:**
+    - 🎓 Pursuing a degree in ARTIFICIAL INTELLIGENCE & DATASCIENCE Engineering.
 
-**🏆 Achievements:**
-- 🥇 4x Hackathon Winner | 🥇 2x Product Showcase Winner
-- 🏅 Runner-up at Research Paper Presentation
-- 🎉 Participated in various state and inter-state level hackathons
+- **🏆 Achievements:**
+    - 🥇 4x Hackathon Winner | 🥇 2x Product Showcase Winner
+    - 🏅 Runner-up at Research Paper Presentation
+    - 🎉 Participated in various state and inter-state level hackathons
 
-**💡 Open to:**
-- 🤝 Exciting collaborations on Artificial Intelligence and Data Science projects that can make a real-world impact
-- 🛠️  Passionate about contributing to the open-source community, especially in AI and related fields.
+- **💡 Open to:**
+    - 🤝 Exciting collaborations on Artificial Intelligence and Data Science projects that can make a real-world impact
+    - 🛠️  Passionate about contributing to the open-source community, especially in AI and related fields.
 
 **🌐 Let's Connect:**
-- **📧 Email:** [Your Email Address]
-- **💼 LinkedIn:** [Your LinkedIn Profile Link]
-- **🐦 Twitter:** [Your Twitter Handle, if applicable]
-- **🌐 Portfolio:** [Your Website/Blog, if applicable]
+- **📧 Email:** anaumsharif@gmail.com
+- **💼 LinkedIn:** in/anaum-sharif-a7877325a
 
-**🎉 Fun Fact:**
-When I'm not coding, you'll find me [Your Unique Hobby/Interest, e.g., playing guitar, hiking, or exploring new cuisines].
 
----
-
-This version integrates all the sections you requested, providing a well-rounded and engaging profile.
 
 <!--
 **anaumsharif/anaumsharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,4 +42,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+💼 LinkedIn: [Your LinkedIn Profile Link]
+🐦 Twitter: [Your Twitter Handle, if applicable]
+🌐 Portfolio: [Your Website/Blog, if applicable]
 -->
